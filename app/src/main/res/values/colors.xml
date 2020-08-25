@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6333</color>
+    <color name="colorPrimaryDark">#ff3d00</color>
+    <color name="colorAccent">#b22a00</color>
+    <color name="primaryColor">#ad1457</color>
+    <color name="primaryLightColor">#e35183</color>
+    <color name="primaryDarkColor">#78002e</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="statusBar">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="on_button_pressed">#F6B4B4</color>
+    <color name="on_button_not_pressed">#fafafa</color>
+</resources>
